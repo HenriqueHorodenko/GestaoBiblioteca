@@ -55,6 +55,8 @@ Simular o funcionamento básico de uma biblioteca, permitindo:
 
 Este projeto foi desenvolvido como parte de um trabalho acadêmico para a faculdade, com fins educacionais.
 
+---
+
 ## ▶️ Como executar
 
 ### 1. Compilar
